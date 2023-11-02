@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-jzikATOUXZ4ADvFQ16S0KGAR1MWeQw31aXXccUFs08w=",
       "netstandard.dll": "sha256-87jtKWKXMg3nXj8D1mLQabI+cTWOPvy5ll3sBYj\/ZhI=",
       "System.Private.CoreLib.dll": "sha256-gjd6M5pA\/nOZEI8pvs9SPUAFG1Jppwr9Xl6v7Wab8Fc=",
-      "Suika.Client.dll": "sha256-R0\/Pzuxt1q9oAJ7FqfHPTGt00bxkb61zvjYHZfr7PfA="
+      "Suika.Client.dll": "sha256-cUnkJoRLTwgjKZdeCTKE5lUhRWWyGmubJbX3vxUaycE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Suika.Client.pdb": "sha256-2q6jOATS93tczJQ56EQOlXw6RJW+PbzvHCQ0Jy1JBE8="
+      "Suika.Client.pdb": "sha256-502pl78rlyKiIklNmlYMd5IdxalDbo61KmXZlF8p6dI="
     },
     "runtime": {
       "dotnet.6.0.23.55f9uvdrt3.js": "sha256-YYG9NE7FnTlr1qMbQzBTzUGZOcLX64xP2Z1+An1jT6U=",

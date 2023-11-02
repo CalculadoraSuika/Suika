@@ -3,8 +3,11 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background: linear-gradient(180deg, #AAED76 0%, #7BC75F 100%);
-    width: auto;
-    height: 689px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    margin: 0;
     overflow-y: hidden;
     overflow-x: hidden;
 }
