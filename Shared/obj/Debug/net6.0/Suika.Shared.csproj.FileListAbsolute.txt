@@ -1,0 +1,11 @@
+C:\Users\Mirvox\source\repos\Suika\Shared\bin\Debug\net6.0\Suika.Shared.deps.json
+C:\Users\Mirvox\source\repos\Suika\Shared\bin\Debug\net6.0\Suika.Shared.dll
+C:\Users\Mirvox\source\repos\Suika\Shared\bin\Debug\net6.0\Suika.Shared.pdb
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.AssemblyInfoInputs.cache
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.AssemblyInfo.cs
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.dll
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\refint\Suika.Shared.dll
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\Suika.Shared.pdb
+C:\Users\Mirvox\source\repos\Suika\Shared\obj\Debug\net6.0\ref\Suika.Shared.dll
